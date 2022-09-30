@@ -124,3 +124,5 @@ git fetch <alias>
 ```{r eval=FALSE}
 git merge <branch name>
 ```
+
+### For More Commands and Details: [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
