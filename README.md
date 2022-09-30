@@ -13,9 +13,9 @@
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session?style=social">
 </div>
 
-<br>
+### Hey Developers, 🤩
 
-Hey Developers, 🤩
+<img align="right" width="300" height="360" src = "https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/My-OctocatsShortest.gif">
 
 It’s time to prepare now and this is a quick reality check for those who do not want to miss # Hacktoberfest !  💪🏻
 
@@ -25,7 +25,12 @@ Here are a couple of dates and rules, you should be aware of, so you don’t mis
 
 New for 2022: You can start contributing to No Code & Low Code. That means sharing your expertise in writing, designing, bug testing, mentoring new contributors, community management, and more.
 
-**HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME—OR YOUR NINTH—IT’S ALMOST TIME TO HACK OUT FOUR PRISTINE PULL/MERGE REQUESTS AND COMPLETE YOUR MISSION FOR OPEN SOURCE.**
+**HACKTOBERFEST IS FOR EVERYONE. WHETHER IT’S YOUR FIRST TIME OR YOUR NINTH IT’S ALMOST TIME TO HACK OUT FOUR PRISTINE PULL/MERGE REQUESTS AND COMPLETE YOUR MISSION FOR OPEN SOURCE.**
+
+<br>
 
 _The workshop will help you in starting contributing to Hacktoberfest as well as help you delve deeper into the open-source community._
 
+- For Refference Use [Git Commands](Git Command.md) codes to use GitHub.
+
+- See and Follow instruction from [INSTRUCTION](INSTRUCTION.md) to Contribute.
