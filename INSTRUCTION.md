@@ -7,7 +7,7 @@
 - Copy past this line of code after replacing below the Alphabet in README.md file
 
 ```{r eval=FALSE}
-[![< Your Name >](< Image Address >?size=90)](< Your-Name.md file Address >)
+[![< Your Name >](< Image Address >?size=80)](< Your-Name.md file Address >)
 ```
 
 ## For Your-Name.md File
