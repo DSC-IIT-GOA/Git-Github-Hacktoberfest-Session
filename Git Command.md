@@ -39,7 +39,7 @@ git status
 - `-m` is for writing the commit in the command line itself
 
 ```{r eval=FALSE}
-git commit -m "commit message"
+git commit -m " descriptive commit message"
 ```
 
 ## Add remote
@@ -63,8 +63,6 @@ git remote -v
 ```
 
 ## push the repo
-
-- Copy past this line of code
 
 - push your commits on branch `<branch name>`
 
@@ -92,4 +90,37 @@ git branch <new branch name>
 
 ```{r eval=FALSE}
 git checkout <branch name>
+```
+
+## Unstage a File
+
+- unstage a `file name` while retaining the changes in working directory
+
+```{r eval=FALSE}
+git reset <file name>
+```
+
+## Merge
+
+- merge the specified `<branch name>` history into the current one
+
+```{r eval=FALSE}
+git merge <branch name>
+```
+
+## Fetch
+
+- fetch down all the branches from that Git remote
+- `<alias>` == origin
+
+```{r eval=FALSE}
+git fetch <alias>
+```
+
+## Pull
+
+- fetch and merge any commits from the tracking remote `<branch name>`
+
+```{r eval=FALSE}
+git merge <branch name>
 ```
