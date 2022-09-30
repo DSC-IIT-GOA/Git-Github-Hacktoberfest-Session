@@ -2,7 +2,7 @@
 
 ## Clone any Repository
 
-- Copy past this line of code
+- In place of `<GitHub Repository>` add the GitHub Repository's URL
 
 ```{r eval=FALSE}
 git clone <GitHub Repository>
@@ -10,15 +10,13 @@ git clone <GitHub Repository>
 
 ## Initialise Git
 
-- Copy past this line of code
-
 ```{r eval=FALSE}
 git init -b main
 ```
 
 ## add a file
 
-- Copy past this line of code
+- In place of `<file name>` add the file name
 
 ```{r eval=FALSE}
 git add <file name>
@@ -26,15 +24,11 @@ git add <file name>
 
 ## add all files
 
-- Copy past this line of code
-
 ```{r eval=FALSE}
 git add .
 ```
 
 ## To view the status
-
-- Copy past this line of code
 
 ```{r eval=FALSE}
 git status
@@ -42,7 +36,7 @@ git status
 
 ## To commit
 
-- Copy past this line of code
+- `-m` is for writing the commit in the command line itself
 
 ```{r eval=FALSE}
 git commit -m "commit message"
@@ -50,7 +44,7 @@ git commit -m "commit message"
 
 ## Add remote
 
-- Copy past this line of code
+- `origin` is like a place holder for the `<Address of the repository(.git)>`
 
 ```{r eval=FALSE}
 git remote add origin <Address of the repository(.git)>
@@ -58,15 +52,11 @@ git remote add origin <Address of the repository(.git)>
 
 ## Check remote
 
-- Copy past this line of code
-
 ```{r eval=FALSE}
 git remote
 ```
 
 ## check remote url
-
-- Copy past this line of code
 
 ```{r eval=FALSE}
 git remote -v
@@ -76,13 +66,13 @@ git remote -v
 
 - Copy past this line of code
 
+- push your commits on branch `<branch name>`
+
 ```{r eval=FALSE}
-git push -u origin master
+git push -u origin <branch name>
 ```
 
 ## See Log
-
-- Copy past this line of code
 
 ```{r eval=FALSE}
 git log
@@ -90,15 +80,15 @@ git log
 
 ## Create Another Branch
 
-- Copy past this line of code
+- Create a new branch with name `<new branch name>`
 
 ```{r eval=FALSE}
-git branch update
+git branch <new branch name>
 ```
 
 ## Change Branch
 
-- Copy past this line of code
+- Jump from the current branch to another branch `<branch name>`
 
 ```{r eval=FALSE}
 git checkout <branch name>
