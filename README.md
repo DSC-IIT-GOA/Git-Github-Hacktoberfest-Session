@@ -31,6 +31,6 @@ New for 2022: You can start contributing to No Code & Low Code. That means shari
 
 _The workshop will help you in starting contributing to Hacktoberfest as well as help you delve deeper into the open-source community._
 
-- For Refference Use [Git Commands](Git Command.md) codes to use GitHub.
+- For Refference Use [Git Commands](https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Git%20Command.md) codes to use GitHub.
 
 - See and Follow instruction from [INSTRUCTION](INSTRUCTION.md) to Contribute.
