@@ -6,15 +6,15 @@
   
   ## 💫 About Me:
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on 
 - 🤝 I’m looking for help with 
 - 🛠 I'm intrested in 
 - 🤖 I'm Current 
-- 💬 Ask me about 
+- 💬 Ask me about Anything
 - 🥅 2022 Goals: 
-- ⚡ Fun fact - I 💖 
-- 📫 Hit an email - 📧 
+- ⚡ Fun fact - I 💖 watching movies
+- 📫 Hit an email - 📧 adarshkln5@gmail.com
   
   ## ✍️ Random Dev Quote
 **_“First, solve the problem. Then, write the code.” – John Johnson_**
