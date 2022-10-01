@@ -1,1 +1,1 @@
-[![<Arnav>](<https://github.com/Arnav-63638/My-repo/blob/main/clint-modified.png?raw=true>?size=70)](< Your-Name.md file Address >)
+[![<Arnav>](<[https://github.com/Arnav-63638/My-repo/blob/main/clint-modified.png?raw=true](https://github.com/Arnav-63638/My-repo/blob/42cd6083761400a2375e31b25570917a403ebd5f/clint-modified.png)>?size=70)](< Your-Name.md file Address >)
