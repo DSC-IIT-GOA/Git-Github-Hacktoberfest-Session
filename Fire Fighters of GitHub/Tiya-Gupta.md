@@ -20,4 +20,4 @@
 **_"Java is to JavaScript what car is to Carpet."_**
 
 ## 😂 Random Dev Meme
-<ima src = "<Meme Image Address>">
+<img src = "https://github.com/Tiagupt03/My-personal-resource/blob/main/60d33be8cf4ba7565123c8bc_YPD3ulQQAGQpOcnqIm3QzSTRgzmr1SexpW9ZjMpJ1mAnUxx4iF05XOTu44sk0qQG-8XgBcYmGZGAD-5SAZvJl3TjtmhgWnn-w0C2XKwhBscV78RVvhwZfyp0v_Pa6sNj5zxpOvRW.png?raw=true">
