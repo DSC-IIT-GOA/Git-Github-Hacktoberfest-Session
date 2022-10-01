@@ -1,7 +1,7 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Vaibhav ( https://github.com/VaibhavMathur-2003) )
 
 <a href = "https://github.com/<Your GitHub User Name>">
-<img align="right" width="250" height="400" src = "https://images.unsplash.com/photo-1617335692042-7a3779b8e050?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80">
+<img align="right" width="300" height="400" src = "https://images.unsplash.com/photo-1617335692042-7a3779b8e050?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80">
 </a>
 
 ## 💫 About Me:
