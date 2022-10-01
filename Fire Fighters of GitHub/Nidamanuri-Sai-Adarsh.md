@@ -21,4 +21,4 @@
   
   
   ## 😂 Random Dev Meme
-<img src = "https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/5xrzvvp8w0ad3djm5rhq.jpg">
+<img align="left" width="300" height="300"  src = "https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/5xrzvvp8w0ad3djm5rhq.jpg">
