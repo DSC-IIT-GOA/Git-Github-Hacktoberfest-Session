@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Madhura Botave!]([https://github.com/MadhuraBotave)]
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Madhura Botave!](https://github.com/MadhuraBotave)
 <a href = "https://github.com/MadhuraBotave>">
 <img align="right" width="350" height="400" src = "https://github.com/MadhuraBotave/My-Personal-Resource/blob/main/Madhura%20Botave.jpeg">
 </a>
