@@ -1,6 +1,6 @@
 # Git/Github Hacktoberfest Session
 
-[![< Prathamesh Yeole >](< https://github.com/Pra-igtm/experience/blob/main/WhatsApp%20Image%202022-10-01%20at%2011.08.37%20AM%20(1)%20-%20Copy.jpeg >?size=70)](< Your-Name.md file Address >)
+
 
 ![Git/Github Hacktoberfest Session](https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/Artboard%201slide.png)
 
