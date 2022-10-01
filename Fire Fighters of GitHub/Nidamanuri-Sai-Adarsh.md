@@ -31,4 +31,4 @@
 **_Don't comment bad code - rewrite it. - Brian Kernighan_**
 
 ## 😂 Random Dev Meme
-<img src = "https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/5xrzvvp8w0ad3djm5rhq.jpg">
+<img align="left" width="200" height="200" src = "https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/5xrzvvp8w0ad3djm5rhq.jpg">
