@@ -3,9 +3,9 @@
 <img align="right" width="400" height="400" src = "https://github.com/Adarsh-N123/my-personal-resource-repo/blob/main/Nidamanuri_Adarsh.jpg">
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-n123&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-n123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-n123" alt="adarsh-n123" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **ML AND DEEP LEARNING BASICS**
 
