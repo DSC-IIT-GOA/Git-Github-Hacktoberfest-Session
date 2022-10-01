@@ -18,4 +18,4 @@
 **_ Software Developer” – An organism that turns caffeine into software _**
 
 ## 😂 Random Dev Meme
-<ima src = "https://img.ifunny.co/images/e64341f24cfc34198e95e1dde7f2b39c9d5c7eaaf691c8de35ec2fb830ce9dc4_1.webp">
+<img src = "https://img.ifunny.co/images/e64341f24cfc34198e95e1dde7f2b39c9d5c7eaaf691c8de35ec2fb830ce9dc4_1.webp">
