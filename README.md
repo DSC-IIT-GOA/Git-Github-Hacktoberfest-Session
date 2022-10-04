@@ -36,3 +36,9 @@ _The workshop will help you in starting contributing to Hacktoberfest as well as
 - For Refference Use [Git Commands](https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Git%20Command.md) codes to use GitHub.
 
 - See and Follow instruction from [INSTRUCTION](INSTRUCTION.md) to Contribute.
+
+## Contributors
+<a href="https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DSC-IIT-GOA/Git-Github-Hacktoberfest-Session" />
+</a>
+
