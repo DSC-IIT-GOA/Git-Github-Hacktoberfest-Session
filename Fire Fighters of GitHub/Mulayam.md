@@ -6,11 +6,11 @@
 <img align="right" width="180" height="200" src = "https://avatars.githubusercontent.com/u/99270619?v=4">
 </a>
 
-- 🔭 I’m currently working on **bot**
+- 🔭 I’m currently learening on **Data structures**
 
 - 🌱 I’m currently learning **Android development and finance**
 
-- 👯 I’m looking to collaborate on **Android development**
+- 👯 I’m looking to collaborate on **Android development & ML**
 
 - 🤝 I’m looking for help with **AI/ML and app development**
 
